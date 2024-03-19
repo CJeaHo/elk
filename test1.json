@@ -1,0 +1,6 @@
+{"index":{"_index":"itest2", "_id":"1"}}
+{"msg":"안녕하세요"}
+{"index":{"_index":"itest2", "_id":"2"}}
+{"msg":"안녕히가세요"}
+{"index":{"_index":"itest2", "_id":"3"}}
+{"msg":"안녕히계세요"}
